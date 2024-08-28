@@ -16,6 +16,7 @@ Y en el segundo se mostrará el texto según la opción que elijas, además indi
 ![image](https://github.com/user-attachments/assets/e5974505-50a8-439e-b7d8-bd66f8e9d113)
 
 Una vez conocemos el funcionamiento, ingresamos el texto, seleccionamos el boton de encriptar para mostrar encriptado el texto y desencriptar para mostrar el texto normal
+
 ![image](https://github.com/user-attachments/assets/ed0fc006-a8d5-4763-a136-fc98a308e4da)
 
 ![image](https://github.com/user-attachments/assets/f64505d4-97b3-49f3-9819-169ff2e43de7)
@@ -23,6 +24,9 @@ Una vez conocemos el funcionamiento, ingresamos el texto, seleccionamos el boton
 ![image](https://github.com/user-attachments/assets/6d50a2e3-09b1-4988-80e4-f5719a6560c6)
 
 Cabe mencionar que para poder funcionar no se pueden ingresar ni mayúsculas ni carácteres especiales, de lo contrario no te permitirá usar el encriptador
+
 ![image](https://github.com/user-attachments/assets/14a18cae-6a67-4ea2-b09b-e7c4eb09c0a6)
+
 Y por último puedes copiar el texto tanto encriptado como desencriptado con el botón del recuadro, así puedes tener los textos encriptados que necesites
+
 ![image](https://github.com/user-attachments/assets/c7c7904e-663c-41b7-a868-16e1fdd07ecf)
