@@ -1,4 +1,5 @@
 <h1 align="center"> Challenge-EncriptadorTexto-Alura </h1>
+
 ![Challenge Decodificador](https://github.com/user-attachments/assets/c7033eb1-67c3-40a7-829e-7f516e37c95a)
 
 Bienvenido al encriptador de texto elaborado por Paula Vargas Campos
