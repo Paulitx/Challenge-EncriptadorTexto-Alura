@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Encriptador de Texto</title>
+    <link rel = "stylesheet" href="style.css">
+    <script src = "encriptadorDeTexto.js" defer></script>
+</head>
+<body>
+    <div class="container">
+        <h1> Encriptador de Texto</h1>
+        <div class = "form-container">
+            <div class = "input-container">
+                <label for = "texto">Introduce una palabra</label>
+                <div id ="Alerta" class = "Alerta" style="display: none;">Nota: Solo se permiten letras minúsculas, sin acentos, ni caracteres especiales.</div>
+
+                <textarea id="texto" placeholder="Ingrese un texto aquí..." rows="4" cols = "30"></textarea>
+                <div>
+                    <button onclick="encriptacion()">Encriptar</button>
+                    <button onclick="Desencriptacion()">Desencriptar</button>
+                </div>
+            </div>
+                <div class="result-container">
+                    
+                    <label for = "resultado">Resultado de la encriptación/desencriptación:</label>
+                    <textarea id = "resultado" readonly rows = "4" cols = "30" placeholder = "Resultado...."></textarea>
+                    <img id="ImagenOcultarCuadro" src="assets/Imagen-Block.png" alt = "Imagen para ocultar el recuadro de resultado" style="display: block">
+                    <button onclick = "copiarResultado()">Copiar</button>
+                </div>
+        </div>
+    </div>
+    <img src="assets/Logo-Alura.png" alt="imagen del logo de alura" class="img-inferior-derecha">
+    <footer>
+    <img src="assets/Imagen-Gallina-Satrdew-Valley.png" alt="Imagen de gallina que acompaña el nombre" class="footer-image">
+    <p>Desarrollado por Paula Vargas Campos</p>
+</footer>
+</body>
+</html>
