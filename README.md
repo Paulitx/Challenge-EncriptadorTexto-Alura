@@ -1,10 +1,10 @@
-# Challenge-EncriptadorTexto-Alura
+<h1 align="center"> Challenge-EncriptadorTexto-Alura </h1>
 ![Challenge Decodificador](https://github.com/user-attachments/assets/c7033eb1-67c3-40a7-829e-7f516e37c95a)
-
 
 Bienvenido al encriptador de texto elaborado por Paula Vargas Campos
 Realizado en Visual Studio Code con Java Script
 
+# Manual de usuario
 Con este código puedes desencriptar y encriptar el texto que desees y también puedes copiarlo
 La página se muestra con una interfaz amigable e intuitiva, pero si necesitas una guía aquí te indico como funciona
 
